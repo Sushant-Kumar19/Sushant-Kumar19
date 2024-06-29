@@ -2,7 +2,7 @@
 <h3 align="center">A passionate code developer from India</h3>
 
 <img align="right" alt ="coding" width="400" src="https://i.pinimg.com/originals/df/47/ee/df47ee3e5df1f4abcc0766585b493ba3.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant-kumar19&label=Profile%20views&color=0e75b6&style=flat" alt="sushant-kumar19" /> </p>
+<p align="left"> <img src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif?v=103461765217895835051680702279" /> </p>
 
 - 🌱 I’m currently learning **Backend with full Stack**
 
